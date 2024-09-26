@@ -23,7 +23,7 @@
     * Ejemplo práctico: Crear y manejar ramas simples.
     * Trabajo colaborativo: Crear una rama, hacer cambios, fusionar con la rama principal.
 
-## 3. GitHub: Tu Primer Repositorio Remoto y Herramientas Gráficas
+## 3. GitHub: Repositorio Remoto y Herramientas Gráficas
 
 * Temas:
     * ¿Qué es GitHub? Diferencias entre Git y GitHub.
